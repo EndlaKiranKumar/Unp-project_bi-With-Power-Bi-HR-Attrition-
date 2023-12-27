@@ -8,4 +8,4 @@ Colleobrated with stakeholders to understand their requirments and translated th
 
 PBIX file:
 
-Link:
+pdf Link:
