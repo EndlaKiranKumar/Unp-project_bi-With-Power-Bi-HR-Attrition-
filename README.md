@@ -7,7 +7,7 @@ Key highilghts:
 Contributed to the development of Intricate KPIs and Dynamic, interactive POWERBI interfaces.
 Colleobrated with stakeholders to understand their requirments and translated them into effitive Power BI solutions.
 
-PBIX file: https://drive.google.com/drive/folders/16HERKFr8hbaDBbiJ8pDT72TBiJ2bO_jN
+PBIX file: https://drive.google.com/file/d/19hzihc7zsGayeqx4wAPZe0qqhfKFKW1N/view?usp=drivesdk
 
 CanvapdfLink: https://drive.google.com/file/d/15wl8gqlAL8kIgv-rQ5w47y3Z61zIvHIr/view?usp=drivesdk
 
